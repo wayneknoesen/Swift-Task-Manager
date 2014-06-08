@@ -13,6 +13,7 @@
 		4738144B19439DC6003F41D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4738144919439DC6003F41D1 /* Main.storyboard */; };
 		4738144D19439DC7003F41D1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4738144C19439DC7003F41D1 /* Images.xcassets */; };
 		4738145919439DC7003F41D1 /* My_Swift_task_managerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4738145819439DC7003F41D1 /* My_Swift_task_managerTests.swift */; };
+		4738146519439E87003F41D1 /* TaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4738146419439E87003F41D1 /* TaskManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		4738145219439DC7003F41D1 /* My Swift task managerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My Swift task managerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4738145719439DC7003F41D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4738145819439DC7003F41D1 /* My_Swift_task_managerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_Swift_task_managerTests.swift; sourceTree = "<group>"; };
+		4738146419439E87003F41D1 /* TaskManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				4738144319439DC6003F41D1 /* AppDelegate.swift */,
 				4738144519439DC6003F41D1 /* FirstViewController.swift */,
 				4738144719439DC6003F41D1 /* SecondViewController.swift */,
+				4738146419439E87003F41D1 /* TaskManager.swift */,
 				4738144919439DC6003F41D1 /* Main.storyboard */,
 				4738144C19439DC7003F41D1 /* Images.xcassets */,
 				4738144119439DC6003F41D1 /* Supporting Files */,
@@ -213,6 +216,7 @@
 			files = (
 				4738144819439DC6003F41D1 /* SecondViewController.swift in Sources */,
 				4738144419439DC6003F41D1 /* AppDelegate.swift in Sources */,
+				4738146519439E87003F41D1 /* TaskManager.swift in Sources */,
 				4738144619439DC6003F41D1 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
